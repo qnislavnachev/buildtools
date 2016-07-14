@@ -8,7 +8,7 @@ import org.junit.Test;
  * @author Alexander Vladimirov
  *         (alexandervladimirov1902@gmail.com)
  */
-public class MainTest {
+public class MyClassTest {
   @Test
   public void main() throws Exception {
 
