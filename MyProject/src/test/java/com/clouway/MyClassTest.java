@@ -10,7 +10,7 @@ import org.junit.Test;
  */
 public class MyClassTest {
   @Test
-  public void main() throws Exception {
+  public void happyPath() {
 
   }
 
