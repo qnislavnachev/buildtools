@@ -3,6 +3,10 @@
 # IDEA Output Directory 
 out/
 
+# Gradle 
+.gradle
+build
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
