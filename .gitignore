@@ -2,8 +2,9 @@
 
 # IDEA Output Directory 
 out/
-
-# Gradle 
+# Gradle
+gradlew.bat
+gradlew
 .gradle
 gradle
 build
@@ -27,6 +28,7 @@ build
 .idea/misc.xml
 .idea/jsLibraryMappings.xml
 .idea
+
 
 # File-based project format:
 *.iws
