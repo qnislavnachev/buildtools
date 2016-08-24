@@ -6,6 +6,7 @@ out/
 # Gradle 
 .gradle
 build
+target
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
@@ -14,6 +15,9 @@ build
 *.jar
 *.war
 *.ear
+*.iml
+*.ipr
+*.iws
 
 # User-specific stuff:
 .idea/workspace.xml
@@ -22,6 +26,7 @@ build
 .idea/vcs.xml
 .idea/misc.xml
 .idea/jsLibraryMappings.xml
+.idea
 
 # File-based project format:
 *.iws
