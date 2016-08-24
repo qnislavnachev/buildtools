@@ -19,4 +19,9 @@ jar{
     manifest {
         attributes 'Main-Class': 'hello.HelloWorld'
     }
+    from {
+        (configurations.runtime).collect {
+            it.isDirectory() ? it : zipTree(it)
+        }
+    }
 }
